@@ -1,0 +1,69 @@
+
+/*  Victor Fogaca Fochezatto Feb/15/2018  */
+
+nav {
+	font-size: 1.3em;
+	background: transparent;
+}
+#hover:hover {
+	border-bottom: 1px solid grey;
+}
+.imgnav {
+	width: 45px;
+	height: 45px;
+}
+.bg {
+	background-color: #616469;
+	background-image: url("bgteste7.png");
+	background-attachment: fixed;
+}
+.navbar-brand {
+	font-size: 1.4em;
+}
+#tittle1 {
+	text-align: center;
+	color: white;
+}
+#tittle2 {
+	text-align: center;
+	color: white;
+}
+.form-control {
+	text-align: center !important;
+}
+.form-size {
+	height: 180px;
+}
+.fontpro {
+	font-size: 1.3em;
+}
+.progress {
+	background-color: grey;
+	height: 20px;
+}
+.progress-bar{
+	color: white;
+	background-color: red;
+}
+#imggf {
+	height: 60px;
+	width: 60px;
+}
+.centerimg {
+	text-align: center;
+}
+.text {
+	justify-content: center;
+	font-size: 2.0em;
+	color: white;
+}
+.imgport {
+	background-color: white;
+	height: 400PX;
+	width: 100%;
+	border-radius: 8px;
+}
+.imgsize {
+	height: 400px;
+	width: 100%;
+}
